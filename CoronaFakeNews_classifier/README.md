@@ -1,4 +1,4 @@
-Coronavirus Fake News
+# Coronavirus Fake News Classifier
 
 Analysis and processing of textual information
 
